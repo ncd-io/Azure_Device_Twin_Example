@@ -1,0 +1,247 @@
+{
+  "deviceId": "ESP32_Gateway_Travis",
+  "etag": "AAAAAAAAAAE=",
+  "deviceEtag": "ODM5NTQ4MTg4",
+  "status": "enabled",
+  "statusUpdateTime": "0001-01-01T00:00:00Z",
+  "connectionState": "Disconnected",
+  "lastActivityTime": "2020-09-15T16:14:08.8831809Z",
+  "cloudToDeviceMessageCount": 0,
+  "authenticationType": "sas",
+  "x509Thumbprint": {
+    "primaryThumbprint": null,
+    "secondaryThumbprint": null
+  },
+  "version": 256924,
+  "properties": {
+    "desired": {
+      "$metadata": {
+        "$lastUpdated": "2019-01-17T15:52:46.8440026Z"
+      },
+      "$version": 1
+    },
+    "reported": {
+      "Gateway_Config": {
+        "mac": "4C:11:AE:FA:1F:C4",
+        "ip": "192.168.88.23",
+        "xbee_address": "00:13:A2:00:41:B1:72:94",
+        "network_id": "7FFF",
+        "preamble": "0",
+        "tx_power": "4",
+        "xbee_ready": true,
+        "cell_rssi": "87.10"
+      },
+      "nodes": {
+        "SN0013A200418E9E37": {
+          "transmission_count": 2,
+          "battery_level": 3.29406,
+          "type": 5,
+          "node_id": 0,
+          "rssi": 100,
+          "accel_x": -43.24,
+          "accel_y": -6.22,
+          "accel_z": 963.12,
+          "magneto_x": -15.05,
+          "magneto_y": -1256.89,
+          "magneto_z": -845.38,
+          "gyro_x": 7.17,
+          "gyro_y": 10.67,
+          "gyro_z": -1.22,
+          "temperature": 27
+        },
+        "SN0013A20041BA66C6": {
+          "transmission_count": 1,
+          "battery_level": 3.29406,
+          "type": 26,
+          "node_id": 0,
+          "rssi": 30,
+          "Pressure_PSI": 14.09,
+          "Temperature_Celsius": 23.33
+        },
+        "SN0013A200418EA5C3": {
+          "transmission_count": 167,
+          "battery_level": 3.29406,
+          "type": 21,
+          "node_id": 12,
+          "rssi": 100,
+          "pressure_psi": 0,
+          "temperature_c": 20.83
+        },
+        "SN0013A20041A86605": {
+          "transmission_count": 169,
+          "battery_level": 2.39246,
+          "type": 24,
+          "node_id": 0,
+          "rssi": 34,
+          "acc_x": -15,
+          "acc_y": 0,
+          "acc_z": -15,
+          "temp_change": 0
+        }
+      },
+      "$metadata": {
+        "$lastUpdated": "2020-09-15T16:14:28.8189475Z",
+        "Gateway_Config": {
+          "$lastUpdated": "2020-09-15T16:14:28.8189475Z",
+          "mac": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "ip": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "xbee_address": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "network_id": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "preamble": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "tx_power": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "xbee_ready": {
+            "$lastUpdated": "2020-09-15T16:14:28.8189475Z"
+          },
+          "cell_rssi": {
+            "$lastUpdated": "2019-09-03T13:57:31.7584215Z"
+          }
+        },
+        "nodes": {
+          "$lastUpdated": "2020-09-15T16:14:08.8050412Z",
+          "SN0013A200418E9E37": {
+            "$lastUpdated": "2020-07-01T15:07:34.7569726Z",
+            "transmission_count": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "battery_level": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "type": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "node_id": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "rssi": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "accel_x": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "accel_y": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "accel_z": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "magneto_x": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "magneto_y": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "magneto_z": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "gyro_x": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "gyro_y": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "gyro_z": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            },
+            "temperature": {
+              "$lastUpdated": "2020-07-01T15:07:34.7569726Z"
+            }
+          },
+          "SN0013A20041BA66C6": {
+            "$lastUpdated": "2020-07-01T14:59:15.0690661Z",
+            "transmission_count": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            },
+            "battery_level": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            },
+            "type": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            },
+            "node_id": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            },
+            "rssi": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            },
+            "Pressure_PSI": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            },
+            "Temperature_Celsius": {
+              "$lastUpdated": "2020-07-01T14:59:15.0690661Z"
+            }
+          },
+          "SN0013A200418EA5C3": {
+            "$lastUpdated": "2020-09-15T16:06:24.9594528Z",
+            "transmission_count": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            },
+            "battery_level": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            },
+            "type": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            },
+            "node_id": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            },
+            "rssi": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            },
+            "pressure_psi": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            },
+            "temperature_c": {
+              "$lastUpdated": "2020-09-15T16:06:24.9594528Z"
+            }
+          },
+          "SN0013A20041A86605": {
+            "$lastUpdated": "2020-09-15T16:14:08.8050412Z",
+            "transmission_count": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "battery_level": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "type": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "node_id": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "rssi": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "acc_x": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "acc_y": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "acc_z": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            },
+            "temp_change": {
+              "$lastUpdated": "2020-09-15T16:14:08.8050412Z"
+            }
+          }
+        }
+      },
+      "$version": 256923
+    }
+  },
+  "capabilities": {
+    "iotEdge": false
+  }
+}
